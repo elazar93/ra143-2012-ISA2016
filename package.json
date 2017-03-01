@@ -1,0 +1,20 @@
+{
+  "name": "meanprojekat",
+  "version": "1.0.0",
+  "description": "Yay",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Strahinja Ristic",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "express": "^4.14.1",
+    "jsonwebtoken": "^7.3.0",
+    "mongodb": "^2.2.24",
+    "nodemailer": "^3.1.4",
+    "nodemailer-sendgrid-transport": "^0.2.0"
+  }
+}

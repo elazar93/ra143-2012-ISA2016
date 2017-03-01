@@ -1,0 +1,6 @@
+
+## Pokretanje aplikacije
+
+1. pokrenuti `npm install` (pre prvog pokretanja aplikacije)
+2. pokrenuti MongoDB: `mongod --dbpath <putanja do db foldera>`
+3. pokretati primere pomocu `node server.js`
